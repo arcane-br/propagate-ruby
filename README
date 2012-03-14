@@ -1,0 +1,7 @@
+Propagate
+=========
+
+This plugin allows for easy insertion of Propagate into your Ruby site. This is
+an adaptation of Jason L Perry's plugin for Recaptcha, which can be found at
+http://github.com/ambethia/recaptcha/tree/master
+
